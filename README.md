@@ -1,2 +1,1 @@
-# Mi-repositotio-Ft-Jbaralt
-Para el uso practico de Compu 1
+Holaaa Soy Sebastian
